@@ -1,11 +1,15 @@
-# 🐦 Flappy Emojis: Space Adventure 💫
+# 🎮 Flappy Emojis: Space Adventure 💫
 
 A fun and quirky mashup of Flappy Bird and Space Invaders, featuring emoji graphics! Navigate your bird through space, blast enemies, and collect bonus items in this addictive arcade game.
 
-## 🎮 Game Features
+## 🎯 Game Features
 
 - **Unique Gameplay**: Combines the addictive mechanics of Flappy Bird with Space Invaders-style shooting
-- **Emoji Graphics**: Charming emoji-based characters and projectiles
+- **Emoji Graphics**: Charming emoji-based characters and projectiles:
+  - 🐦 Player character
+  - 💨 Shoot wind projectiles
+  - 👾 👻 👽 🤖 Enemy emojis
+  - 💩 Collect for bonus points!
 - **Dynamic Scoring**: 
   - 🎯 Shoot enemies: 10 points
   - 💩 Collect bonus items: 50 points
@@ -36,7 +40,7 @@ A fun and quirky mashup of Flappy Bird and Space Invaders, featuring emoji graph
 ### Desktop Version
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/flappy-emojis.git
+git clone https://github.com/Joelalbon/Flappyinvators.git
 
 # Install requirements
 pip install -r requirements.txt
