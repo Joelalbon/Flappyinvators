@@ -1,0 +1,3 @@
+pygame==2.6.1
+# For Android version (will be needed later)
+kivy==2.3.0
